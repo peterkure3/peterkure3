@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peterkure3
+- 👋 Hi, I’m Peter Kure
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on a website
