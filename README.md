@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @peterkure3
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on website
+- 💞️ I’m looking to collaborate on a website
 - 📫 How to reach me @peterkure3 on twitter.
 
 
