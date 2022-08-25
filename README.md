@@ -25,7 +25,6 @@
 </a>
 
 ## How it's going
-![user's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterkure3&amp;show_icons=true&amp;theme=radical) <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterkure3&" alt="Peter" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterkure3&langs_count=8&layout=compact&theme=radical)
 
