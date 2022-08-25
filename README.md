@@ -22,7 +22,3 @@
 <a href="https://github.com/peterkure3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterkure3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Peter's GitHub Stats" />
 </a>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterkure3&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peterkure3&theme=github_dark&utcOffset=8)
