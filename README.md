@@ -11,7 +11,6 @@
   <a href="www.linkedin.com/in/PeterKure">
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
-
 </p>
 
 ## My GitHub Stats &#x1f4c8;
@@ -24,6 +23,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterkure3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Peter's GitHub Stats" />
 </a>
 
-## How it's going
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterkure3&theme=github_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peterkure3&theme=github_dark&utcOffset=8)
