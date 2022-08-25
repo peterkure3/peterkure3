@@ -30,4 +30,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterkure3&langs_count=8&layout=compact&theme=radical)
 
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elywin&theme=github" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peterkure3&theme=github" /></p>
