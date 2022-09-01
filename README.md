@@ -13,7 +13,8 @@
   </a>
 </p>
 
-## My GitHub Stats &#x1f4c8;
+
+<h2 align="center"> GitHub Stats &#x1f4c8 </h2>
 
 <a href="https://github.com/peterkure3/peterkure3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterkure3&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
