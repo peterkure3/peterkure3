@@ -1,6 +1,6 @@
-<h2 align="center">Hello there 👋</h2>
+<h2 align="center">Hi👋</h2>
 
-<p align="center">I am Peter Kure.<br/> Computer Scientist, Software Developer, Web Developer, Network Engineer and a <b>huge</b> fan of Linux and Open Source</p>
+<p align="center"My name is Peter Kure.<br/> Computer Scientist, Software Developer, Web Developer, Network Engineer and a <b>huge</b> fan of Linux and Open Source</p>
 </p>
 
 <p align="center">
