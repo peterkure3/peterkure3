@@ -3,6 +3,7 @@
 <p align="center">My name is Peter Kure.<br/> I am a Computer Scientist, Software Developer, Web Developer, Network Engineer and a <b>huge</b> fan of Linux and Open Source</p>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PeterKure3&label=Profile%20views&color=0e75b6&style=flat" alt="peterkure3" /> </p>
 <p align="center">
   <a href="https://twitter.com/PeterKure3">
    <img src="https://img.shields.io/badge/Twitter-blue?label=Twitter&logo=Twitter&style=for-the-badge" />
