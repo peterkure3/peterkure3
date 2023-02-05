@@ -3,7 +3,8 @@
 <p align="center">My name is Peter Kure.<br/> I am a Computer Scientist, Software Developer, Web Developer, Network Engineer and a <b>huge</b> fan of Linux and Open Source</p>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PeterKure3&label=Profile%20views&color=0e75b6&style=flat" alt="peterkure3" /> </p>
+<h2 align="center"> Socials &#x1f4c8 </h2>
+
 <p align="center">
   <a href="https://twitter.com/PeterKure3">
    <img src="https://img.shields.io/badge/Twitter-blue?label=Twitter&logo=Twitter&style=for-the-badge" />
@@ -24,3 +25,6 @@
 <a href="https://github.com/peterkure3">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterkure3&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Peter's GitHub Stats" />
 </a>
+
+
+
