@@ -9,11 +9,25 @@
   <a href="https://twitter.com/PeterKure3">
    <img src="https://img.shields.io/badge/Twitter-blue?label=Twitter&logo=Twitter&style=for-the-badge" />
   </a>
-  
+<p align="center"> 
   <a href="www.linkedin.com/in/PeterKure">
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
+<p align="center">
+  <a href="https://www.instagram.com/_peter43_/">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram" />
+</a>
+
 </p>
+
+## Skills
+
+<a<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 
 <h2 align="center"> GitHub Stats &#x1f4c8 </h2>
