@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋</h2>
+<h2 align="center">Hello there👋</h2>
 
 <p align="center">My name is Peter Kure.<br/> I am a Computer Scientist, Software Developer, Network Engineer and a <b>huge</b> fan of Linux and Open Source</p>
 </p>
