@@ -4,7 +4,17 @@
 
 # 💫 About Me:
 
-Computer Scientist | Web Developer | Huge fan of linux and open source software
+I'm a Software Developer with experience building full-stack web and mobile applications across fintech, sports analytics, AI-powered products and developer tools.
+My primary stack includes TypeScript, JavaScript, Python, React, Next.js, React Native, NestJS, Node.js, PostgreSQL, and Prisma, with a strong focus on scalable architecture, security, performance, and user experience.
+My work includes:
+- Building responsive web applications with React and Next.js 
+- Developing mobile applications with React Native and Flutter 
+- Designing and implementing backend services and APIs using Node.js, NestJS, FastAPI, and Python 
+- Creating scalable database systems with PostgreSQL
+- Designing intuitive user experiences and translating product requirements into production-ready software 
+
+I enjoy transforming complex ideas into reliable, maintainable, and scalable solutions while maintaining a strong emphasis on clean code, security, and long-term system growth.
+I am open to remote software engineering opportunities, freelance projects, and collaborations with product-focused teams building impactful technology.
 
 ## 🌐 Socials:
 
