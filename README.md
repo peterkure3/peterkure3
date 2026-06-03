@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hello 👋 there, I'm Peter Kure
 
